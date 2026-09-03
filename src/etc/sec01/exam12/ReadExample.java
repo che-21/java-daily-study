@@ -1,4 +1,4 @@
-package sec01.exam12;
+package etc.sec01.exam12;
 
 import java.io.FileReader;
 import java.io.Reader;

@@ -1,4 +1,4 @@
-package sec01.exam09;
+package etc.sec01.exam09;
 
 import java.io.FileWriter;
 import java.io.Writer;

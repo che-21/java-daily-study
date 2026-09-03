@@ -1,4 +1,4 @@
-package sec01.exam03;
+package etc.sec01.exam03;
 
 import java.io.FileOutputStream;
 import java.io.OutputStream;

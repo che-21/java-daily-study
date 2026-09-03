@@ -1,4 +1,4 @@
-package sec02.exam02;
+package etc.sec02.exam02;
 
 import java.io.*;
 
